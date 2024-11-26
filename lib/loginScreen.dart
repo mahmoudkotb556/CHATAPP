@@ -18,7 +18,7 @@ class _loginScreenState extends State<loginScreen> {
         backgroundColor: Colors.cyan,
         actions: [
           Icon(Icons.search),
-          SizedBox(width: 20,),
+          SizedBox(width: 22,),
           Icon(Icons.logout),
           SizedBox(width: 20,),
 
